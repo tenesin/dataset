@@ -1,0 +1,632 @@
+[
+  {
+    "Angkatan": 2023,
+    "Komentar": "netral",
+    "text_case_folded": "netral",
+    "text_tokenized": "['netral']",
+    "text_stemmed": "['netral']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "senang",
+    "text_case_folded": "senang",
+    "text_tokenized": "['senang']",
+    "text_stemmed": "['nang']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Terbantu karena mudah digunakan",
+    "text_case_folded": "terbantu karena mudah digunakan",
+    "text_tokenized": "['terbantu', 'karena', 'mudah', 'digunakan']",
+    "text_stemmed": "['bantu', 'karena', 'mudah', 'gunak']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "biasa aja",
+    "text_case_folded": "biasa aja",
+    "text_tokenized": "['biasa', 'aja']",
+    "text_stemmed": "['biasa', 'aja']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Saya merasa sangat terbantu karena dengan ini akses dari kamera hp dapat diakses dengan mudah di laptop tanpa adanya thirdnetralparty software. Dan sistematis pengolahan storage yang cukup baik",
+    "text_case_folded": "saya merasa sangat terbantu karena dengan ini akses dari kamera hp dapat diakses dengan mudah di laptop tanpa adanya thirdnetralparty software. dan sistematis pengolahan storage yang cukup baik",
+    "text_tokenized": "['saya', 'merasa', 'sangat', 'terbantu', 'karena', 'dengan', 'ini', 'akses', 'dari', 'kamera', 'hp', 'dapat', 'diakses', 'dengan', 'mudah', 'di', 'laptop', 'tanpa', 'adanya', 'thirdnetralparty', 'software', '.', 'dan', 'sistematis', 'pengolahan', 'storage', 'yang', 'cukup', 'baik']",
+    "text_stemmed": "['saya', 'rasa', 'sangat', 'bantu', 'karena', 'deng', 'ini', 'akses', 'dari', 'kamera', 'hp', 'dapat', 'akses', 'deng', 'mudah', '', 'laptop', 'tanpa', 'ada', 'thirdnetralparty', 'software', '.', 'd', 'sistematis', 'ngolah', 'storage', 'yang', 'cukup', 'baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "puas",
+    "text_case_folded": "puas",
+    "text_tokenized": "['puas']",
+    "text_stemmed": "['puas']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "bagus",
+    "text_case_folded": "bagus",
+    "text_tokenized": "['bagus']",
+    "text_stemmed": "['bagus']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "so far its been pretty good especially managing files",
+    "text_case_folded": "so far its been pretty good especially managing files",
+    "text_tokenized": "['so', 'far', 'its', 'been', 'pretty', 'good', 'especially', 'managing', 'files']",
+    "text_stemmed": "['so', 'far', 'its', 'been', 'pretty', 'good', 'especially', 'managing', 'files']"
+  },
+  {
+    "Angkatan": 2024,
+    "Komentar": "puas",
+    "text_case_folded": "puas",
+    "text_tokenized": "['puas']",
+    "text_stemmed": "['puas']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "cukup senang",
+    "text_case_folded": "cukup senang",
+    "text_tokenized": "['cukup', 'senang']",
+    "text_stemmed": "['cukup', 'nang']"
+  },
+  {
+    "Angkatan": 2021,
+    "Komentar": "Saya merasa platform clous storage memudahkan saya untuk menyimpan dan mengakses data dimana saja",
+    "text_case_folded": "saya merasa platform clous storage memudahkan saya untuk menyimpan dan mengakses data dimana saja",
+    "text_tokenized": "['saya', 'merasa', 'platform', 'clous', 'storage', 'memudahkan', 'saya', 'untuk', 'menyimpan', 'dan', 'mengakses', 'data', 'dimana', 'saja']",
+    "text_stemmed": "['saya', 'rasa', 'platform', 'clous', 'storage', 'mudahk', 'saya', 'untuk', 'nyimp', 'd', 'ngakses', 'data', 'mana', 'saja']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Biasa saja. Cuma efek Google yang gampang akses aja",
+    "text_case_folded": "biasa saja. cuma efek google yang gampang akses aja",
+    "text_tokenized": "['biasa', 'saja', '.', 'cuma', 'efek', 'google', 'yang', 'gampang', 'akses', 'aja']",
+    "text_stemmed": "['biasa', 'saja', '.', 'cuma', 'efek', 'google', 'yang', 'gampang', 'akses', 'aja']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Puas",
+    "text_case_folded": "puas",
+    "text_tokenized": "['puas']",
+    "text_stemmed": "['puas']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "netral",
+    "text_case_folded": "netral",
+    "text_tokenized": "['netral']",
+    "text_stemmed": "['netral']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Cukup puas saat ini, dengan kemudahan akses yang diberikan oleh layanan ini, berbagi berkas bisa dilakukan dengan mudah",
+    "text_case_folded": "cukup puas saat ini, dengan kemudahan akses yang diberikan oleh layanan ini, berbagi berkas bisa dilakukan dengan mudah",
+    "text_tokenized": "['cukup', 'puas', 'saat', 'ini', ',', 'dengan', 'kemudahan', 'akses', 'yang', 'diberikan', 'oleh', 'layanan', 'ini', ',', 'berbagi', 'berkas', 'bisa', 'dilakukan', 'dengan', 'mudah']",
+    "text_stemmed": "['cukup', 'puas', 'saat', 'ini', ',', 'deng', 'kemudah', 'akses', 'yang', 'berik', 'oleh', 'layan', 'ini', ',', 'berbagi', 'berkas', 'bisa', 'lakuk', 'deng', 'mudah']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "bagus lah",
+    "text_case_folded": "bagus lah",
+    "text_tokenized": "['bagus', 'lah']",
+    "text_stemmed": "['bagus', '']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "karena sudah terbiasa, jadi overall aman aman aja",
+    "text_case_folded": "karena sudah terbiasa, jadi overall aman aman aja",
+    "text_tokenized": "['karena', 'sudah', 'terbiasa', ',', 'jadi', 'overall', 'aman', 'aman', 'aja']",
+    "text_stemmed": "['karena', 'sudah', 'biasa', ',', 'jadi', 'overall', 'am', 'am', 'aja']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Memuaskan",
+    "text_case_folded": "memuaskan",
+    "text_tokenized": "['memuaskan']",
+    "text_stemmed": "['muask']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Secara keseluruhan, penggunaan platform cloud storage seperti Google Drive memberikan pengalaman yang sangat positif bagi banyak pengguna. Dengan kemudahan akses, integrasi yang kuat dengan ekosistem Google, serta fitur berbagi file dan kolaborasi realnetraltime, platform ini sangat membantu dalam pekerjaan seharinetralhari. Namun, ada juga kekhawatiran terkait keamanan data, terutama dengan meningkatnya ancaman siber dan penggunaan data oleh pihak penyedia layanan. Selain itu, keterbatasan kapasitas penyimpanan gratis sering menjadi kendala bagi mereka yang memiliki banyak file, sementara ketergantungan pada koneksi internet dapat mengurangi kenyamanan penggunaan di area dengan jaringan yang tidak stabil. Meskipun demikian, keunggulan yang ditawarkan tetap membuat Google Drive menjadi pilihan utama bagi banyak orang dalam mengelola dan menyimpan file secara efisien.",
+    "text_case_folded": "secara keseluruhan, penggunaan platform cloud storage seperti google drive memberikan pengalaman yang sangat positif bagi banyak pengguna. dengan kemudahan akses, integrasi yang kuat dengan ekosistem google, serta fitur berbagi file dan kolaborasi realnetraltime, platform ini sangat membantu dalam pekerjaan seharinetralhari. namun, ada juga kekhawatiran terkait keamanan data, terutama dengan meningkatnya ancaman siber dan penggunaan data oleh pihak penyedia layanan. selain itu, keterbatasan kapasitas penyimpanan gratis sering menjadi kendala bagi mereka yang memiliki banyak file, sementara ketergantungan pada koneksi internet dapat mengurangi kenyamanan penggunaan di area dengan jaringan yang tidak stabil. meskipun demikian, keunggulan yang ditawarkan tetap membuat google drive menjadi pilihan utama bagi banyak orang dalam mengelola dan menyimpan file secara efisien.",
+    "text_tokenized": "['secara', 'keseluruhan', ',', 'penggunaan', 'platform', 'cloud', 'storage', 'seperti', 'google', 'drive', 'memberikan', 'pengalaman', 'yang', 'sangat', 'positif', 'bagi', 'banyak', 'pengguna', '.', 'dengan', 'kemudahan', 'akses', ',', 'integrasi', 'yang', 'kuat', 'dengan', 'ekosistem', 'google', ',', 'serta', 'fitur', 'berbagi', 'file', 'dan', 'kolaborasi', 'realnetraltime', ',', 'platform', 'ini', 'sangat', 'membantu', 'dalam', 'pekerjaan', 'seharinetralhari', '.', 'namun', ',', 'ada', 'juga', 'kekhawatiran', 'terkait', 'keamanan', 'data', ',', 'terutama', 'dengan', 'meningkatnya', 'ancaman', 'siber', 'dan', 'penggunaan', 'data', 'oleh', 'pihak', 'penyedia', 'layanan', '.', 'selain', 'itu', ',', 'keterbatasan', 'kapasitas', 'penyimpanan', 'gratis', 'sering', 'menjadi', 'kendala', 'bagi', 'mereka', 'yang', 'memiliki', 'banyak', 'file', ',', 'sementara', 'ketergantungan', 'pada', 'koneksi', 'internet', 'dapat', 'mengurangi', 'kenyamanan', 'penggunaan', 'di', 'area', 'dengan', 'jaringan', 'yang', 'tidak', 'stabil', '.', 'meskipun', 'demikian', ',', 'keunggulan', 'yang', 'ditawarkan', 'tetap', 'membuat', 'google', 'drive', 'menjadi', 'pilihan', 'utama', 'bagi', 'banyak', 'orang', 'dalam', 'mengelola', 'dan', 'menyimpan', 'file', 'secara', 'efisien', '.']",
+    "text_stemmed": "['cara', 'keseluruh', ',', 'ngguna', 'platform', 'cloud', 'storage', 'perti', 'google', 'drive', 'mberik', 'ngalam', 'yang', 'sangat', 'positif', 'bagi', 'banyak', 'ngguna', '.', 'deng', 'kemudah', 'akses', ',', 'integrasi', 'yang', 'kuat', 'deng', 'ekosistem', 'google', ',', 'rta', 'fitur', 'berbagi', 'file', 'd', 'kolaborasi', 'realnetraltime', ',', 'platform', 'ini', 'sangat', 'mbantu', 'dalam', 'kerja', 'harinetralhari', '.', 'namun', ',', 'ada', 'juga', 'kekhawatir', 'kait', 'keaman', 'data', ',', 'utama', 'deng', 'ningkat', 'ancam', 'siber', 'd', 'ngguna', 'data', 'oleh', 'pihak', 'nyedia', 'layan', '.', 'lain', 'itu', ',', 'keterbatas', 'kapasitas', 'nyimpan', 'gratis', 'ring', 'njadi', 'kendala', 'bagi', 'reka', 'yang', 'miliki', 'banyak', 'file', ',', 'mentara', 'ketergantung', 'pada', 'koneksi', 'internet', 'dapat', 'ngurangi', 'kenyaman', 'ngguna', '', 'area', 'deng', 'jaring', 'yang', 'tidak', 'stabil', '.', 'skipun', 'demiki', ',', 'keunggul', 'yang', 'tawark', 'tetap', 'mbuat', 'google', 'drive', 'njadi', 'pilih', 'utama', 'bagi', 'banyak', 'orang', 'dalam', 'ngelola', 'd', 'nyimp', 'file', 'cara', 'efisien', '.']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Puas",
+    "text_case_folded": "puas",
+    "text_tokenized": "['puas']",
+    "text_stemmed": "['puas']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Sangat senang karena menguntungkan kita dan mempermudah kita",
+    "text_case_folded": "sangat senang karena menguntungkan kita dan mempermudah kita",
+    "text_tokenized": "['sangat', 'senang', 'karena', 'menguntungkan', 'kita', 'dan', 'mempermudah', 'kita']",
+    "text_stemmed": "['sangat', 'nang', 'karena', 'nguntungk', 'kita', 'd', 'mpermudah', 'kita']"
+  },
+  {
+    "Angkatan": 2024,
+    "Komentar": "Merasa terbantu untuk menyimpan file2 yg saya ingin simpan",
+    "text_case_folded": "merasa terbantu untuk menyimpan file2 yg saya ingin simpan",
+    "text_tokenized": "['merasa', 'terbantu', 'untuk', 'menyimpan', 'file2', 'yg', 'saya', 'ingin', 'simpan']",
+    "text_stemmed": "['rasa', 'bantu', 'untuk', 'nyimp', 'file2', 'yg', 'saya', 'ingin', 'simp']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Merasa termudahkan karena keterbatasan physical storage pribadi",
+    "text_case_folded": "merasa termudahkan karena keterbatasan physical storage pribadi",
+    "text_tokenized": "['merasa', 'termudahkan', 'karena', 'keterbatasan', 'physical', 'storage', 'pribadi']",
+    "text_stemmed": "['rasa', 'mudahk', 'karena', 'keterbatas', 'physical', 'storage', 'pribadi']"
+  },
+  {
+    "Angkatan": 2024,
+    "Komentar": "Sejauh ini merasa terbantu karena mudah digunakan.",
+    "text_case_folded": "sejauh ini merasa terbantu karena mudah digunakan.",
+    "text_tokenized": "['sejauh', 'ini', 'merasa', 'terbantu', 'karena', 'mudah', 'digunakan', '.']",
+    "text_stemmed": "['jauh', 'ini', 'rasa', 'bantu', 'karena', 'mudah', 'gunak', '.']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Secara keseluruhan, platform cloud storage seperti Google Drive sangat bermanfaat karena memberikan kemudahan akses, kolaborasi, dan penyimpanan data. Namun, ada kebutuhan untuk menjaga keamanan data dan memaksimalkan kapasitas penyimpanan yang tersedia. Penggunaannya terasa efisien, tetapi bisa lebih optimal dengan manajemen data yang baik.",
+    "text_case_folded": "secara keseluruhan, platform cloud storage seperti google drive sangat bermanfaat karena memberikan kemudahan akses, kolaborasi, dan penyimpanan data. namun, ada kebutuhan untuk menjaga keamanan data dan memaksimalkan kapasitas penyimpanan yang tersedia. penggunaannya terasa efisien, tetapi bisa lebih optimal dengan manajemen data yang baik.",
+    "text_tokenized": "['secara', 'keseluruhan', ',', 'platform', 'cloud', 'storage', 'seperti', 'google', 'drive', 'sangat', 'bermanfaat', 'karena', 'memberikan', 'kemudahan', 'akses', ',', 'kolaborasi', ',', 'dan', 'penyimpanan', 'data', '.', 'namun', ',', 'ada', 'kebutuhan', 'untuk', 'menjaga', 'keamanan', 'data', 'dan', 'memaksimalkan', 'kapasitas', 'penyimpanan', 'yang', 'tersedia', '.', 'penggunaannya', 'terasa', 'efisien', ',', 'tetapi', 'bisa', 'lebih', 'optimal', 'dengan', 'manajemen', 'data', 'yang', 'baik', '.']",
+    "text_stemmed": "['cara', 'keseluruh', ',', 'platform', 'cloud', 'storage', 'perti', 'google', 'drive', 'sangat', 'bermanfaat', 'karena', 'mberik', 'kemudah', 'akses', ',', 'kolaborasi', ',', 'd', 'nyimpan', 'data', '.', 'namun', ',', 'ada', 'kebutuh', 'untuk', 'njaga', 'keaman', 'data', 'd', 'maksimalk', 'kapasitas', 'nyimpan', 'yang', 'sedia', '.', 'nggunaan', 'asa', 'efisien', ',', 'tetapi', 'bisa', 'lebih', 'optimal', 'deng', 'manajemen', 'data', 'yang', 'baik', '.']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Cukup menyenangkan dan memudahkan.",
+    "text_case_folded": "cukup menyenangkan dan memudahkan.",
+    "text_tokenized": "['cukup', 'menyenangkan', 'dan', 'memudahkan', '.']",
+    "text_stemmed": "['cukup', 'nyenangk', 'd', 'mudahk', '.']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Overall google drive sangat membantu dalam melakukan penyimpanan data secara cloud dan platform ini sangat praktis untuk digunakan",
+    "text_case_folded": "overall google drive sangat membantu dalam melakukan penyimpanan data secara cloud dan platform ini sangat praktis untuk digunakan",
+    "text_tokenized": "['overall', 'google', 'drive', 'sangat', 'membantu', 'dalam', 'melakukan', 'penyimpanan', 'data', 'secara', 'cloud', 'dan', 'platform', 'ini', 'sangat', 'praktis', 'untuk', 'digunakan']",
+    "text_stemmed": "['overall', 'google', 'drive', 'sangat', 'mbantu', 'dalam', 'lakuk', 'nyimpan', 'data', 'cara', 'cloud', 'd', 'platform', 'ini', 'sangat', 'praktis', 'untuk', 'gunak']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "cukup baik",
+    "text_case_folded": "cukup baik",
+    "text_tokenized": "['cukup', 'baik']",
+    "text_stemmed": "['cukup', 'baik']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "bersyukur karna ada platform yang menyediakan fasilitas tambahan untuk menyimpan file secara gratis",
+    "text_case_folded": "bersyukur karna ada platform yang menyediakan fasilitas tambahan untuk menyimpan file secara gratis",
+    "text_tokenized": "['bersyukur', 'karna', 'ada', 'platform', 'yang', 'menyediakan', 'fasilitas', 'tambahan', 'untuk', 'menyimpan', 'file', 'secara', 'gratis']",
+    "text_stemmed": "['bersyukur', 'karna', 'ada', 'platform', 'yang', 'nyediak', 'fasilitas', 'tambah', 'untuk', 'nyimp', 'file', 'cara', 'gratis']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "nyaman, dan ngga terlalu ribet, mudah diakses dan sudah cukup untuk memenuhi kebutuhan saya",
+    "text_case_folded": "nyaman, dan ngga terlalu ribet, mudah diakses dan sudah cukup untuk memenuhi kebutuhan saya",
+    "text_tokenized": "['nyaman', ',', 'dan', 'ngga', 'terlalu', 'ribet', ',', 'mudah', 'diakses', 'dan', 'sudah', 'cukup', 'untuk', 'memenuhi', 'kebutuhan', 'saya']",
+    "text_stemmed": "['nyam', ',', 'd', 'ngga', 'lalu', 'ribet', ',', 'mudah', 'akses', 'd', 'sudah', 'cukup', 'untuk', 'menuhi', 'kebutuh', 'saya']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Nyaman, jadi daily driver",
+    "text_case_folded": "nyaman, jadi daily driver",
+    "text_tokenized": "['nyaman', ',', 'jadi', 'daily', 'driver']",
+    "text_stemmed": "['nyam', ',', 'jadi', 'daily', 'driver']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Baik bagus",
+    "text_case_folded": "baik bagus",
+    "text_tokenized": "['baik', 'bagus']",
+    "text_stemmed": "['baik', 'bagus']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Praktis dan membantu, terutama untuk kolaborasi.",
+    "text_case_folded": "praktis dan membantu, terutama untuk kolaborasi.",
+    "text_tokenized": "['praktis', 'dan', 'membantu', ',', 'terutama', 'untuk', 'kolaborasi', '.']",
+    "text_stemmed": "['praktis', 'd', 'mbantu', ',', 'utama', 'untuk', 'kolaborasi', '.']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Merasa lebih safety aja karena belum ada kendala selama ini",
+    "text_case_folded": "merasa lebih safety aja karena belum ada kendala selama ini",
+    "text_tokenized": "['merasa', 'lebih', 'safety', 'aja', 'karena', 'belum', 'ada', 'kendala', 'selama', 'ini']",
+    "text_stemmed": "['rasa', 'lebih', 'safety', 'aja', 'karena', 'belum', 'ada', 'kendala', 'lama', 'ini']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2021,
+    "Komentar": "Oke",
+    "text_case_folded": "oke",
+    "text_tokenized": "['oke']",
+    "text_stemmed": "['oke']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "sangat puas, karena ini sangat membantu pekerjaan dan tugas seharinetralhari! khususnya pada departemenku hampir setiap hari aku selalu buka drive",
+    "text_case_folded": "sangat puas, karena ini sangat membantu pekerjaan dan tugas seharinetralhari! khususnya pada departemenku hampir setiap hari aku selalu buka drive",
+    "text_tokenized": "['sangat', 'puas', ',', 'karena', 'ini', 'sangat', 'membantu', 'pekerjaan', 'dan', 'tugas', 'seharinetralhari', '!', 'khususnya', 'pada', 'departemenku', 'hampir', 'setiap', 'hari', 'aku', 'selalu', 'buka', 'drive']",
+    "text_stemmed": "['sangat', 'puas', ',', 'karena', 'ini', 'sangat', 'mbantu', 'kerja', 'd', 'tugas', 'harinetralhari', '!', 'khusus', 'pada', 'departemen', 'hampir', 'tiap', 'hari', 'a', 'lalu', 'buka', 'drive']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "cukup puas karena penggunaannya mudah",
+    "text_case_folded": "cukup puas karena penggunaannya mudah",
+    "text_tokenized": "['cukup', 'puas', 'karena', 'penggunaannya', 'mudah']",
+    "text_stemmed": "['cukup', 'puas', 'karena', 'nggunaan', 'mudah']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Lumayan memuaskan karena mudah dipahami dalam penggunaannya",
+    "text_case_folded": "lumayan memuaskan karena mudah dipahami dalam penggunaannya",
+    "text_tokenized": "['lumayan', 'memuaskan', 'karena', 'mudah', 'dipahami', 'dalam', 'penggunaannya']",
+    "text_stemmed": "['lumay', 'muask', 'karena', 'mudah', 'pahami', 'dalam', 'nggunaan']"
+  },
+  {
+    "Angkatan": 2021,
+    "Komentar": "Netral",
+    "text_case_folded": "netral",
+    "text_tokenized": "['netral']",
+    "text_stemmed": "['netral']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "terbantu dalam mengerjakan pekerjaan keseharian saya",
+    "text_case_folded": "terbantu dalam mengerjakan pekerjaan keseharian saya",
+    "text_tokenized": "['terbantu', 'dalam', 'mengerjakan', 'pekerjaan', 'keseharian', 'saya']",
+    "text_stemmed": "['bantu', 'dalam', 'ngerjak', 'kerja', 'kesehari', 'saya']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Sangat puas",
+    "text_case_folded": "sangat puas",
+    "text_tokenized": "['sangat', 'puas']",
+    "text_stemmed": "['sangat', 'puas']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "sangat puas, mudah diakses, mudah untuk dikelola",
+    "text_case_folded": "sangat puas, mudah diakses, mudah untuk dikelola",
+    "text_tokenized": "['sangat', 'puas', ',', 'mudah', 'diakses', ',', 'mudah', 'untuk', 'dikelola']",
+    "text_stemmed": "['sangat', 'puas', ',', 'mudah', 'akses', ',', 'mudah', 'untuk', 'kelola']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "sangat puas",
+    "text_case_folded": "sangat puas",
+    "text_tokenized": "['sangat', 'puas']",
+    "text_stemmed": "['sangat', 'puas']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Terbantu dan lumayan bermanfaat",
+    "text_case_folded": "terbantu dan lumayan bermanfaat",
+    "text_tokenized": "['terbantu', 'dan', 'lumayan', 'bermanfaat']",
+    "text_stemmed": "['bantu', 'd', 'lumay', 'bermanfaat']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baiknetralbaik saja",
+    "text_case_folded": "baiknetralbaik saja",
+    "text_tokenized": "['baiknetralbaik', 'saja']",
+    "text_stemmed": "['baiknetralbaik', 'saja']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "puasss",
+    "text_case_folded": "puasss",
+    "text_tokenized": "['puasss']",
+    "text_stemmed": "['puasss']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Sangat suka",
+    "text_case_folded": "sangat suka",
+    "text_tokenized": "['sangat', 'suka']",
+    "text_stemmed": "['sangat', 'suka']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "sangat membantu dalam kebutuhan dan mudah digunakan",
+    "text_case_folded": "sangat membantu dalam kebutuhan dan mudah digunakan",
+    "text_tokenized": "['sangat', 'membantu', 'dalam', 'kebutuhan', 'dan', 'mudah', 'digunakan']",
+    "text_stemmed": "['sangat', 'mbantu', 'dalam', 'kebutuh', 'd', 'mudah', 'gunak']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Puas",
+    "text_case_folded": "puas",
+    "text_tokenized": "['puas']",
+    "text_stemmed": "['puas']"
+  },
+  {
+    "Angkatan": 2024,
+    "Komentar": "Puas",
+    "text_case_folded": "puas",
+    "text_tokenized": "['puas']",
+    "text_stemmed": "['puas']"
+  },
+  {
+    "Angkatan": 2024,
+    "Komentar": "Biasa aja",
+    "text_case_folded": "biasa aja",
+    "text_tokenized": "['biasa', 'aja']",
+    "text_stemmed": "['biasa', 'aja']"
+  },
+  {
+    "Angkatan": 2024,
+    "Komentar": "Baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2024,
+    "Komentar": "Sangat simpel",
+    "text_case_folded": "sangat simpel",
+    "text_tokenized": "['sangat', 'simpel']",
+    "text_stemmed": "['sangat', 'simpel']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Sangat membantu dalam pengelolaan file penting agar lebih tertata",
+    "text_case_folded": "sangat membantu dalam pengelolaan file penting agar lebih tertata",
+    "text_tokenized": "['sangat', 'membantu', 'dalam', 'pengelolaan', 'file', 'penting', 'agar', 'lebih', 'tertata']",
+    "text_stemmed": "['sangat', 'mbantu', 'dalam', 'ngelola', 'file', 'nting', 'agar', 'lebih', 'tata']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik, sudah cukup memuaskan",
+    "text_case_folded": "baik, sudah cukup memuaskan",
+    "text_tokenized": "['baik', ',', 'sudah', 'cukup', 'memuaskan']",
+    "text_stemmed": "['baik', ',', 'sudah', 'cukup', 'muask']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "cukup puas",
+    "text_case_folded": "cukup puas",
+    "text_tokenized": "['cukup', 'puas']",
+    "text_stemmed": "['cukup', 'puas']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "netral",
+    "text_case_folded": "netral",
+    "text_tokenized": "['netral']",
+    "text_stemmed": "['netral']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Google drive adalah cloud storage yang sangat praktis karena terkait dengan akun Google, memiliki tingkat keamanan, kepercayaan, dan nama yang besar karena terhubung dengan Google. Dalam menggunakan google drive, saya merasa banyak terbantu, tetapi sayangnya jika perlu mencari file dengan cepat, google drive masih kurang cepat dalam melakukan pencarian. Google drive juga terkadang sedikit lambat di dalam loading.",
+    "text_case_folded": "google drive adalah cloud storage yang sangat praktis karena terkait dengan akun google, memiliki tingkat keamanan, kepercayaan, dan nama yang besar karena terhubung dengan google. dalam menggunakan google drive, saya merasa banyak terbantu, tetapi sayangnya jika perlu mencari file dengan cepat, google drive masih kurang cepat dalam melakukan pencarian. google drive juga terkadang sedikit lambat di dalam loading.",
+    "text_tokenized": "['google', 'drive', 'adalah', 'cloud', 'storage', 'yang', 'sangat', 'praktis', 'karena', 'terkait', 'dengan', 'akun', 'google', ',', 'memiliki', 'tingkat', 'keamanan', ',', 'kepercayaan', ',', 'dan', 'nama', 'yang', 'besar', 'karena', 'terhubung', 'dengan', 'google', '.', 'dalam', 'menggunakan', 'google', 'drive', ',', 'saya', 'merasa', 'banyak', 'terbantu', ',', 'tetapi', 'sayangnya', 'jika', 'perlu', 'mencari', 'file', 'dengan', 'cepat', ',', 'google', 'drive', 'masih', 'kurang', 'cepat', 'dalam', 'melakukan', 'pencarian', '.', 'google', 'drive', 'juga', 'terkadang', 'sedikit', 'lambat', 'di', 'dalam', 'loading', '.']",
+    "text_stemmed": "['google', 'drive', 'ada', 'cloud', 'storage', 'yang', 'sangat', 'praktis', 'karena', 'kait', 'deng', 'akun', 'google', ',', 'miliki', 'tingkat', 'keaman', ',', 'kepercaya', ',', 'd', 'nama', 'yang', 'besar', 'karena', 'hubung', 'deng', 'google', '.', 'dalam', 'nggunak', 'google', 'drive', ',', 'saya', 'rasa', 'banyak', 'bantu', ',', 'tetapi', 'sayang', 'jika', 'rlu', 'ncari', 'file', 'deng', 'cepat', ',', 'google', 'drive', 'masih', 'kurang', 'cepat', 'dalam', 'lakuk', 'ncari', '.', 'google', 'drive', 'juga', 'kadang', 'dikit', 'lambat', '', 'dalam', 'loading', '.']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Platform sudah ckup responsif dan mudah diakses , hanya saja kapasitas terbatas",
+    "text_case_folded": "platform sudah ckup responsif dan mudah diakses , hanya saja kapasitas terbatas",
+    "text_tokenized": "['platform', 'sudah', 'ckup', 'responsif', 'dan', 'mudah', 'diakses', ',', 'hanya', 'saja', 'kapasitas', 'terbatas']",
+    "text_stemmed": "['platform', 'sudah', 'ckup', 'responsif', 'd', 'mudah', 'akses', ',', 'ha', 'saja', 'kapasitas', 'batas']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Suka dengan desainnya, mudah digunakan, dan tidak bikin bingung",
+    "text_case_folded": "suka dengan desainnya, mudah digunakan, dan tidak bikin bingung",
+    "text_tokenized": "['suka', 'dengan', 'desainnya', ',', 'mudah', 'digunakan', ',', 'dan', 'tidak', 'bikin', 'bingung']",
+    "text_stemmed": "['suka', 'deng', 'desain', ',', 'mudah', 'gunak', ',', 'd', 'tidak', 'bikin', 'bingung']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Bagus, sangat membantu karena tidak perlu menggunakan flashdisk",
+    "text_case_folded": "bagus, sangat membantu karena tidak perlu menggunakan flashdisk",
+    "text_tokenized": "['bagus', ',', 'sangat', 'membantu', 'karena', 'tidak', 'perlu', 'menggunakan', 'flashdisk']",
+    "text_stemmed": "['bagus', ',', 'sangat', 'mbantu', 'karena', 'tidak', 'rlu', 'nggunak', 'flashdisk']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Sangat membantu dalam penyimpanan data",
+    "text_case_folded": "sangat membantu dalam penyimpanan data",
+    "text_tokenized": "['sangat', 'membantu', 'dalam', 'penyimpanan', 'data']",
+    "text_stemmed": "['sangat', 'mbantu', 'dalam', 'nyimpan', 'data']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Menurut saya cukup memuaskan, apalagi saya biasanya hanya menggunakan cloud untuk menyimpan file file pribadi, sehingga tidak perlu ukuran yang besar sekali",
+    "text_case_folded": "menurut saya cukup memuaskan, apalagi saya biasanya hanya menggunakan cloud untuk menyimpan file file pribadi, sehingga tidak perlu ukuran yang besar sekali",
+    "text_tokenized": "['menurut', 'saya', 'cukup', 'memuaskan', ',', 'apalagi', 'saya', 'biasanya', 'hanya', 'menggunakan', 'cloud', 'untuk', 'menyimpan', 'file', 'file', 'pribadi', ',', 'sehingga', 'tidak', 'perlu', 'ukuran', 'yang', 'besar', 'sekali']",
+    "text_stemmed": "['nurut', 'saya', 'cukup', 'muask', ',', 'apalagi', 'saya', 'biasa', 'ha', 'nggunak', 'cloud', 'untuk', 'nyimp', 'file', 'file', 'pribadi', ',', 'hingga', 'tidak', 'rlu', 'ukur', 'yang', 'besar', 'kali']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "Mantap, sangat membantu dan mempermudah dalam penyimpanan data",
+    "text_case_folded": "mantap, sangat membantu dan mempermudah dalam penyimpanan data",
+    "text_tokenized": "['mantap', ',', 'sangat', 'membantu', 'dan', 'mempermudah', 'dalam', 'penyimpanan', 'data']",
+    "text_stemmed": "['mantap', ',', 'sangat', 'mbantu', 'd', 'mpermudah', 'dalam', 'nyimpan', 'data']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "Cukup senang",
+    "text_case_folded": "cukup senang",
+    "text_tokenized": "['cukup', 'senang']",
+    "text_stemmed": "['cukup', 'nang']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "cukup baik",
+    "text_case_folded": "cukup baik",
+    "text_tokenized": "['cukup', 'baik']",
+    "text_stemmed": "['cukup', 'baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "cukup baik",
+    "text_case_folded": "cukup baik",
+    "text_tokenized": "['cukup', 'baik']",
+    "text_stemmed": "['cukup', 'baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "cukup baik",
+    "text_case_folded": "cukup baik",
+    "text_tokenized": "['cukup', 'baik']",
+    "text_stemmed": "['cukup', 'baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "cukup memuaskan",
+    "text_case_folded": "cukup memuaskan",
+    "text_tokenized": "['cukup', 'memuaskan']",
+    "text_stemmed": "['cukup', 'muask']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "memuaskan",
+    "text_case_folded": "memuaskan",
+    "text_tokenized": "['memuaskan']",
+    "text_stemmed": "['muask']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "cukup baik",
+    "text_case_folded": "cukup baik",
+    "text_tokenized": "['cukup', 'baik']",
+    "text_stemmed": "['cukup', 'baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "lumayan baik",
+    "text_case_folded": "lumayan baik",
+    "text_tokenized": "['lumayan', 'baik']",
+    "text_stemmed": "['lumay', 'baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "puas",
+    "text_case_folded": "puas",
+    "text_tokenized": "['puas']",
+    "text_stemmed": "['puas']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "puas",
+    "text_case_folded": "puas",
+    "text_tokenized": "['puas']",
+    "text_stemmed": "['puas']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2023,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "biasa saja",
+    "text_case_folded": "biasa saja",
+    "text_tokenized": "['biasa', 'saja']",
+    "text_stemmed": "['biasa', 'saja']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "cukup puas karena easy to use dan gratis",
+    "text_case_folded": "cukup puas karena easy to use dan gratis",
+    "text_tokenized": "['cukup', 'puas', 'karena', 'easy', 'to', 'use', 'dan', 'gratis']",
+    "text_stemmed": "['cukup', 'puas', 'karena', 'easy', 'to', 'use', 'd', 'gratis']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "neutral",
+    "text_case_folded": "neutral",
+    "text_tokenized": "['neutral']",
+    "text_stemmed": "['neutral']"
+  },
+  {
+    "Angkatan": 2022,
+    "Komentar": "baik",
+    "text_case_folded": "baik",
+    "text_tokenized": "['baik']",
+    "text_stemmed": "['baik']"
+  }
+]
